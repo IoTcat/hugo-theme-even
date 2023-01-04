@@ -1,3 +1,10 @@
+# Modified from [hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even)
+Modifications:
+ - Add comments module.
+
+-----
+
+
 # hugo-theme-even
 
 [![GitHub contributors](https://img.shields.io/github/contributors/olOwOlo/hugo-theme-even.svg?colorB=green)](https://github.com/olOwOlo/hugo-theme-even/contributors)
